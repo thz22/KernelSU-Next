@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | [Türkçe](README_TR.md) | [Português (Brasil)](README_PT-BR.md) | [한국어](README_KO.md) | [Français](README_FR.md) | **Bahasa Indonesia** | [Русский](README_RU.md) | [ภาษาไทย](README_TH.md)
+[English](README.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | [Türkçe](README_TR.md) | [Português (Brasil)](README_PT-BR.md) | [한국어](README_KO.md) | [Français](README_FR.md) | **Bahasa Indonesia** | [Русский](README_RU.md) | [ภาษาไทย](README_TH.md) | [Tiếng Việt](README_VI.md)
 
 # KernelSU Next
 
@@ -7,7 +7,7 @@
 Sebuah solusi root berbasis Kernel untuk perangkat Android.
 
 [![Latest Release](https://img.shields.io/github/v/release/rifsxd/KernelSU-Next?label=Release&logo=github)](https://github.com/rifsxd/KernelSU-Next/releases/latest)
-[![Nightly Release](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/rifsxd/KernelSU-Next/workflows/build-manager/next/manager)
+[![Nightly Release](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/rifsxd/KernelSU-Next/workflows/build-manager-ci/next/Manager)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![GitHub License](https://img.shields.io/github/license/rifsxd/KernelSU-Next?logo=gnu)](/LICENSE)
 
@@ -41,9 +41,9 @@ Untuk informasi tentang melaporkan kerentanannya di KernelSU, lihat [SECURITY.md
 
 ## Kredit
 
-- [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/): ide KernelSU.
-- [Magisk](https://github.com/topjohnwu/Magisk): alat root yang kuat.
-- [genuine](https://github.com/brevent/genuine/): validasi tanda tangan apk v2.
-- [Diamorphine](https://github.com/m0nad/Diamorphine): beberapa keterampilan rootkit.
-- [KernelSU](https://github.com/tiann/KernelSU): terima kasih kepada tiann, jika tidak, KernelSU Next bahkan tidak akan ada.
+- [Kernel-Assisted Superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/): Ide KernelSU.
+- [Magisk](https://github.com/topjohnwu/Magisk): Alat root yang kuat.
+- [genuine](https://github.com/brevent/genuine/): Validasi tanda tangan APK v2.
+- [Diamorphine](https://github.com/m0nad/Diamorphine): Beberapa keterampilan rootkit.
+- [KernelSU](https://github.com/tiann/KernelSU): Terima kasih kepada tiann, jika tidak, KernelSU Next bahkan tidak akan ada.
 - [Magic Mount Port](https://github.com/5ec1cff/KernelSU/blob/main/userspace/ksud/src/magic_mount.rs): 💜 5ec1cff karena menyelamatkan KernelSU!

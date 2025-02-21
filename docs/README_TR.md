@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | **Türkçe** | [Português (Brasil)](README_PT-BR.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Bahasa Indonesia](README_ID.md) | [Русский](README_RU.md) | [ภาษาไทย](README_TH.md)
+[English](README.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | **Türkçe** | [Português (Brasil)](README_PT-BR.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Bahasa Indonesia](README_ID.md) | [Русский](README_RU.md) | [ภาษาไทย](README_TH.md) | [Tiếng Việt](README_VI.md)
 
 # KernelSU Next
 
@@ -7,7 +7,7 @@
 Android cihazlar için Kernel tabanlı bir root çözümü.
 
 [![Latest Release](https://img.shields.io/github/v/release/rifsxd/KernelSU-Next?label=Release&logo=github)](https://github.com/rifsxd/KernelSU-Next/releases/latest)
-[![Nightly Release](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/rifsxd/KernelSU-Next/workflows/build-manager/next/manager)
+[![Nightly Release](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/rifsxd/KernelSU-Next/workflows/build-manager-ci/next/Manager)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![GitHub License](https://img.shields.io/github/license/rifsxd/KernelSU-Next?logo=gnu)](/LICENSE)
 
@@ -41,9 +41,9 @@ KernelSU'daki güvenlik açıklarını bildirme hakkında bilgi için [SECURITY.
 
 ## Krediler
 
-- [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/): KernelSU fikri.
-- [Magisk](https://github.com/topjohnwu/Magisk): güçlü kök aracı.
-- [genuine](https://github.com/brevent/genuine/): apk v2 imza doğrulama.
-- [Diamorphine](https://github.com/m0nad/Diamorphine): bazı rootkit becerileri.
+- [Kernel-Assisted Superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/): KernelSU fikri.
+- [Magisk](https://github.com/topjohnwu/Magisk): Güçlü kök aracı.
+- [genuine](https://github.com/brevent/genuine/): APK v2 imza doğrulama.
+- [Diamorphine](https://github.com/m0nad/Diamorphine): Bazı rootkit becerileri.
 - [KernelSU](https://github.com/tiann/KernelSU): tiann'a teşekkürler, yoksa KernelSU Next var olamazdı bile.
 - [Magic Mount Port](https://github.com/5ec1cff/KernelSU/blob/main/userspace/ksud/src/magic_mount.rs): 💜 5ec1cff KernelSU'yu kurtardığınız için!
